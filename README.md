@@ -1,12 +1,7 @@
-Install lates version of neovim using brew or any other package manager of your choice
+to setup use this video as a guid
+https://youtu.be/w7i4amO_zaE?si=F7Y-84IIzcpdv1rw
 
-install Packer.nvim using this curl command
 
-````
 
-git clone --depth 1 https://github.com/wbthomason/packer.nvim\
- ~/.local/share/nvim/site/pack/packer/start/packer.nvim
-
-````
 
 
